@@ -1,6 +1,16 @@
 # Sleipnir Group
 
-![Sleipnir Group Logo](sleipnir_THcolors_1000px.png)
+<style>
+.logo {
+  width: 30%;
+  height: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<img src="sleipnir_THcolors_1000px.png" alt="Sleipnir Group Logo" class="logo">
 
 Developing and maintaining the Sleipnir constrained optimization problem solver and tools based on it.
 
